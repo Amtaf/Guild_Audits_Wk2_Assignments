@@ -1,4 +1,4 @@
-### [S-1] Price Manipulation via Unbalanced Token Swaps (Root Cause: Lack of Swap Rate Safeguards + Impact: Token Drain)
+### [S-1] Price Manipulation by Unbalanced Token Swaps
 
 **Description:**
 The DEX contract allows users to swap between two tokens without enforcing proper safeguards against price manipulation. An attacker can exploit this by performing repeated swaps between the two tokens, artificially manipulating their prices and draining the contract of one of the tokens completely.
