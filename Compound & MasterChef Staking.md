@@ -217,9 +217,4 @@ Let’s consider a simplified example to illustrate how MasterChef staking works
 
 - High rewards for specific pools can lead to centralization, where a few large players control a significant portion of the liquidity.
 
-### 
 
-1. **Write a detailed breakdown of how compound staking and Master Chef staking works**
-2. **Shadow Audit - [https://github.com/code-423n4/2024-02-ai-arena](https://github.com/code-423n4/2024-02-ai-arena)**
-3. **Fuzzing - Write a staking contract and test using fuzz and invariants testing.**
-4. **Write an airdrop contract wit a signature replay bug and exploit it.**
